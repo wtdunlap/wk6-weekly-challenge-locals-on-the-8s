@@ -31,6 +31,17 @@ These show the app before anything has been entered and after the recent searche
 ![Before entering](<Assets/images/Screenshot (886).png>)
 ![After entering](<Assets/images/Screenshot (887).png>)
 
+## Deployment
+
+Live site at:
+
+https://wtdunlap.github.io/wk6-weekly-challenge-locals-on-the-8s/
+
+Repo at:
+
+
+https://github.com/wtdunlap/wk6-weekly-challenge-locals-on-the-8s/
+
 ## Credits
 
 It's me, the only person that worked on this project. 
